@@ -1,1 +1,1 @@
-# javaSpringBoot
+# Java SpringBoot Sample Tutorial Project
